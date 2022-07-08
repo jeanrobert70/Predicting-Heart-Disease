@@ -15,13 +15,13 @@ In a statement,
 
 Given clinical parameters about a patient, can we predict whetehr or not they have heart disease?
 
-## 2. Data
+## Data
 The original data came from Clevland data from the UTI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/heart+disease. The downloaded csv file version came from Kaggle: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-## 3. Evaluation
+## Evaluation
 If we can reach 95% accuracy at predicting wheter or not a patent has heart disease during the proof of concept, we'll pursue the project.
 
-## 4. Features
+## Features
 Data dictionary
 
 * age - age in years
